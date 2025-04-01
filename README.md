@@ -1,5 +1,7 @@
 # CS-590AE - PA 1
 
+Repository URL: https://github.com/matdjohnson-at-umass-dot-edu/cs590-PA1
+
 This assignment submission is implemented in python.
 
 The submission uses the template provided.
