@@ -6,7 +6,6 @@
 # required numpy library
 import csv
 import numpy as np
-import sys
 
 # Constants
 CQI_MAX = 15
